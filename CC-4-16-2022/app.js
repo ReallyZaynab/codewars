@@ -16,7 +16,7 @@
                 return x*x
             }
         })
-        console.log(newArr)
+        return newArr
     }
 
 
